@@ -1,0 +1,25 @@
+body{
+
+  background-color: #ECEBE6;
+}
+.section1{background-color: white;
+  height: 150px;
+  width: 100%;
+
+}
+.clr{
+  float: right;
+  height: 100px;
+  width: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.section3{
+  height: 150px;
+  width: 100%;
+}
+.section4{
+  background-color: white;
+  height: 150px;
+  width: 100%;
+}
