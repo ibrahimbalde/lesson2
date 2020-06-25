@@ -1,6 +1,9 @@
 body{
 
-  background-color: #ECEBE6;
+  background-color: gray;
+  margin-left: 100px
+  align-items: center;
+  text-align: center;
 }
 .section1{background-color: white;
   height: 150px;
